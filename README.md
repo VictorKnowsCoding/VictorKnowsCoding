@@ -1,1 +1,1 @@
- - Hello Random People Looking at My Profile, My Name is Victor, also known as Victor.PythonCoder,VictorKnowsCoding. Not Really Much Here...i am Learning With Python and building my way up to HTLM, CSS, and that stuff So uhh...thanks?..i guass for wasting time to read this
+ - Hello Random People Looking at My Profile, My Name is Victor, also known as Victor.PythonCoder,VictorKnowsCoding. Not Really Much Here...i am a basic coder on languages like  HTML, CSS, and that stuff So uhh...thanks?..i guass for wasting time to read this
